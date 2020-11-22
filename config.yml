@@ -1,0 +1,11 @@
+config-version: 1.4
+#
+# MESSAGE
+# Use "%player%" to place the username in the message.
+message: '&cSorry %player%, you lack the required permission to do that.'
+
+# PERMISSION-NODE
+# People without this permission will not be able to place/use TNT.
+# It is recommended to keep it lower-case.
+ignite-permission: 'notnt.ignite'
+place-permission: 'notnt.place'
